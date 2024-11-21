@@ -1,3 +1,1 @@
-# internalcap
-
-A new Flutter project.
+# Learn Clean Architecture for Internal Upgrading MOCAP Community
